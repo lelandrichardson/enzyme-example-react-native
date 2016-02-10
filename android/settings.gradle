@@ -1,0 +1,3 @@
+rootProject.name = 'rn_enzyme_test_project'
+
+include ':app'
