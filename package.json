@@ -19,5 +19,8 @@
     "react-addons-test-utils": "^0.14.7",
     "react-dom": "^0.14.7",
     "react-native-mock": "^0.0.6"
+  },
+  "standard": {
+    "globals": [ "describe", "it" ]
   }
 }
